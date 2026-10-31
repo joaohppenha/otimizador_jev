@@ -35,7 +35,8 @@ Processamento das requisições simulando a latência em milissegundos nativa do
 
 Abaixo está o gráfico comparativo demonstrando o impacto de desempenho e eficiência de custos entre a arquitetura utilizando o Jev contra uma LLM Generativa Comercial tradicional (como o GPT-4o) para cada 1 milhão de requisições:
 
-![Comparativo de Eficiência Jev vs GPT-4o](otimizador_jev/IMG/img.png)
+![Comparativo de Eficiência Jev vs GPT-4o](./otimizador_jev/IMG/img.png)
+
 
 
 ### Diagnóstico da Infraestrutura:
