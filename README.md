@@ -37,6 +37,7 @@ Abaixo está o gráfico comparativo demonstrando o impacto de desempenho e efici
 
 ![Comparativo de Eficiência Jev vs GPT-4o](otimizador_jev/IMG/img.png)
 
+
 ### Diagnóstico da Infraestrutura:
 * **Velocidade:** O Jev entrega respostas cerca de 160 vezes mais rápidas que uma LLM convencional, reduzindo o tempo de espera no chat para a casa dos milissegundos.
 * **Sustentabilidade Financeira:** Redução drástica do custo por chamada, viabilizando o processamento em tempo real de milhões de transações diárias.
